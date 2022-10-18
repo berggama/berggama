@@ -20,6 +20,8 @@ Atualmente trabalho com projetos pessoais de Ciência de dados para adquirir exp
 ### Visualização de Dados
 - Matplotlib, Seaborn, Plotly e Bokeh
 - Power BI
+- QuickSight
 
 ### Engenharia de Software
 - Git, Github, Gitlab
+- Amazon Web Service (AWS)
