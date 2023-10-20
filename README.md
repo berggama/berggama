@@ -1,6 +1,6 @@
 # Olá, seja muito bem-vindo(a), eu sou Berg Gama 😄
 
-<p><em>Engenheiro Naval pela <a href="https://www.ufpe.br/">Universidade de Pernambuco</a> & MBA em Data Science and Analytics pela <a href="https://www5.usp.br/">Universidade de São Paulo</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Analista de Dados na <a href="https://www.ferreiracosta.com">Ferreira Costa</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="42"> 
+<p><em>Engenheiro Naval pela <a href="https://www.ufpe.br/">Universidade de Pernambuco</a> & MBA em Data Science and Analytics pela <a href="https://www5.usp.br/">Universidade de São Paulo</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Cientista de Dados na <a href="https://vert.com.br/">VERT</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="42"> 
 </em></p>
 
 [![Linkedin: berggama](https://img.shields.io/badge/-berggama-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/berg-gama/)](https://www.linkedin.com/in/berg-gama/)
